@@ -1,3 +1,3 @@
 ## FACUNDO MANGIONE
 
-Para ejecutar el archivo debe ejecutar el comando "pyton3 -m unittest"
+Para correr el archivo se debe ejecutar en la terminal de visual el codigo "python3 -m unittest"
